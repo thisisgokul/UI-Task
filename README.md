@@ -10,5 +10,5 @@ This project aims to create a layout with resizable components using React and T
 
 ## Screenshots
 ![Resizable Components Layout](./public/screenshots/img1.png)
-![Resizable Components Layout](./images/resizable_layout.png)
-![Resizable Components Layout](./images/resizable_layout.png)
+![Resizable Components Layout](./public/screenshots/img2.png)
+![Resizable Components Layout](./public/screenshots/img3.png)
