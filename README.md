@@ -1,4 +1,5 @@
 # Layout with Resizable Components
+Check out the live demo [here](https://ui-task-zeta-neon.vercel.app/).
 
 This project aims to create a layout with resizable components using React and Tailwind CSS. The layout consists of three different components with some content, allowing users to resize them by dragging from any of the sides. Neighboring components dynamically adjust their size based on resizing operations performed on the target component. The layout is designed to be responsive on all laptop devices.
 
